@@ -1,2 +1,2 @@
 # ARIS-Analysis-of-Airline-Reservation-System
- Analysis and design of the system's processes, data, organization, and product/service modeling using ARIS management framework. Includes functional, data, organization, process, and product/service views.
+This report provides a comprehensive analysis of the Airline Reservation System using the ARIS management framework. It includes functional, data, organization, process, and product/service views, as well as an authorization hierarchy and screen design. The report aims to help businesses understand the system and identify opportunities for improvement
